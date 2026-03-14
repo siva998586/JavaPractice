@@ -1,6 +1,18 @@
-User 1 develop the code
+User 2 develop the code
 
-Code A
+Code B
+
+{
+statement 1;
+statement 2;
+statement 3;
+
+}
+
+User 2 develop the code
+
+Code c
+
 {
 statement 1;
 statement 2;
