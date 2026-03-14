@@ -7,21 +7,3 @@ statement 2;
 statement 3;
 
 }
-User 2 develop the code
-
-Code B
-{
-statement 1;
-statement 2;
-statement 3;
-
-}
-User 1 develop the code
-
-Code C
-{
-statement 1;
-statement 2;
-statement 3;
-
-}
